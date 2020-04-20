@@ -1,0 +1,26 @@
+{
+  "name": "wishlist",
+  "version": "1.0.0",
+  "description": "Shopping! Shopping! Shopping! Help you get notification when something which you want is available on specified online store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackychu0830/wishlist.git"
+  },
+  "author": "Jacky Chu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackychu0830/wishlist/issues"
+  },
+  "homepage": "https://github.com/jackychu0830/wishlist#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "js-yaml": "^3.13.1",
+    "nodemailer": "^6.4.6",
+    "request": "^2.88.2",
+    "winston": "^3.2.1"
+  }
+}

@@ -1,0 +1,44 @@
+--- # Nintendo Switch with Neon Blue and Neon Red Joy-Con
+name: "Nintendo Switch with Neon Blue and Neon Red Joy-Con"
+stores:
+  [
+  {
+    store: "target_pick_up",
+    url: "https://www.target.com/p/nintendo-switch-with-neon-blue-and-neon-red-joy-con/-/A-77464001"
+  },
+  {
+    store: "target_shipping",
+    url: "https://www.target.com/p/nintendo-switch-with-neon-blue-and-neon-red-joy-con/-/A-77464001"
+  },
+  {
+    store: "best_buy",
+    url: "https://www.bestbuy.com/site/nintendo-switch-32gb-console-neon-red-neon-blue-joy-con/6364255.p?skuId=6364255"
+  }
+  ]
+
+--- # Nintendo Switch with Gray Joy-Con
+name: "Nintendo Switch with Gray Joy-Con"
+stores:
+  [
+  {
+    store: "target_pick_up",
+    url: "https://www.target.com/p/nintendo-switch-with-gray-joy-con/-/A-77464002"
+  },
+  {
+    store: "target_shipping",
+    url: "https://www.target.com/p/nintendo-switch-with-gray-joy-con/-/A-77464002"
+  },
+  {
+    store: "best_buy",
+    url: "https://www.bestbuy.com/site/nintendo-switch-32gb-console-gray-joy-con/6364253.p?skuId=6364253"
+  }
+  ]
+
+--- # Nintendo - Switch - Animal Crossing: New Horizons Edition 32GB Console
+name: "Nintendo - Switch - Animal Crossing: New Horizons Edition 32GB Console"
+stores:
+  [{
+     store: "best_buy",
+     url: "https://www.bestbuy.com/site/nintendo-switch-animal-crossing-new-horizons-edition-32gb-console-multi/6401728.p?skuId=6401728"
+   }]
+

@@ -1,0 +1,20 @@
+best_buy:
+  name: "Best Buy"
+  status_css_selector: ".fulfillment-add-to-cart-button .add-to-cart-button"
+  text-unavailable: "Sold Out"
+  text-available: "Add to Cart"
+target_pick_up:
+  name: "Target Pick Up"
+  store_info_css_selector: "div[data-test='store'] a[id^='store-name']"
+  status_css_selector: "[data-test='store'] [data-test='storeMessage']"
+  text-unavailable: "Out of stock"
+  text-available: "Pick up today"
+  cookies: ""
+target_shipping:
+  name: "Target Shipping"
+  status_css_selector: "[data-test='shipping'] [data-test='shipMethodMessage'],[data-test='oosDeliveryOption']"
+  text-unavailable: "Temporarily out of stock"
+  text-available: "Get it by"
+  cookies: ""
+
+
